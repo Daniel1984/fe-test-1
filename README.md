@@ -9,4 +9,5 @@ You can use any tool you like for manipulating dates. Could be `date-fns`, `dayj
 
 ## BONUS POINTS
 - bonus points for making your calendar grid look like the image below:
+
 ![calendar image](https://github.com/Daniel1984/fe-test-1/blob/master/src/assets/calendar.png?raw=true)
